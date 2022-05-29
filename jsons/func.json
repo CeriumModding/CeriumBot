@@ -1,0 +1,38 @@
+    
+[
+    {
+        "name": "ServerReadyToStartMatch",
+        "description": "Makes the server ready to start the match",
+        "func_name": "Function /Script/FortniteGame.FortPlayerController.ServerReadyToStartMatch"
+    },
+    {
+        "name": "ServerReturnToMainMenu",
+        "description": "Gets server ready to return back to lobby",
+        "func_name": "Function /Script/FortniteGame.FortPlayerController.ServerReturnToMainMenu"
+    },
+    {
+        "name": "ServerSendAimbotDetectionStatus",
+        "description": "Checks to make sure user is NOT aimbotting",
+        "func_name": "Function /Script/FortniteGame.FortPlayerPawn.ServerSendAimbotDetectionStatus"
+    },
+    {
+        "name": "ServerKickPlayer",
+        "description": "Server kicking specified player",
+        "func_name": "Function /Script/FortniteGame.FortPlayerController.ServerKickPlayer"
+    },
+    {
+        "name": "SendPacketToClient",
+        "description": "Server sending packet to Client",
+        "func_name": "Function /Script/UACBase.UACNetworkComponent.SendPacketToClient"
+    },
+    {
+        "name": "SendPacketToServer",
+        "description": "Client sending packet to Server",
+        "func_name": "Function /Script/UACBase.UACNetworkComponent.SendPacketToServer"
+    },
+    {
+        "name": "SendClientHello",
+        "description": "Server sending Client 'Hello'",
+        "func_name": "Function /Script/UACBase.UACNetworkComponent.SendClientHello"
+    }
+]

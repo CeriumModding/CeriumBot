@@ -1,0 +1,18 @@
+{
+  "name": "ceriumbot",
+  "version": "1.0.0",
+  "description": "The Cerium Discord bot ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "array0x",
+  "license": "MIT",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.18.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
